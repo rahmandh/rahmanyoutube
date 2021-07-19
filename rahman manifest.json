@@ -1,0 +1,38 @@
+{
+  "name": "KompiTextAja",
+  "short_name": "KompiTextAja",
+  "start_url": "https://rahmanyoutuber.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog ini merupakan kumpulan beberapa video dan juga menampilkan video terbaik dari Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-6ZLOubW4xy8/YPUfxnKWDBI/AAAAAAAAABM/_qf1WuYr93UX3YMejPIXMIWre2D3LgEBwCLcBGAsYHQ/s48/rahom%2Byoutuber.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Zm4iXrk5-Kc/YPUWlSRSRvI/AAAAAAAAAAU/qGxSz_PiZJIFm13aj1zb4FJ-ciTJBy_DwCLcBGAsYHQ/s72/rahman%2Byoutuber.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5pMM-XoHHZM/YPUXF7NCafI/AAAAAAAAAAc/wh_o9eji870miEzpvg9JpxCP0aKtJv5qACLcBGAsYHQ/s96/rahman%2Byoutuber%2B%25281%2529.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-aJspree8Gyg/YPUXwrq6fqI/AAAAAAAAAAk/Fe-1qRyKXUAv_NcrGM6f90HPvVJ6eaRygCLcBGAsYHQ/s144/rahman%2Byoutuber%2B%25282%2529.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-e005jE_8O5A/YPUYN07ieAI/AAAAAAAAAAs/OErvCtZzy2oNAG_hraHiCS4ytMiwk99HACLcBGAsYHQ/s168/rahman%2Byoutuber%2B%25283%2529.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3l3eqlp1thU/YPUYr-__GTI/AAAAAAAAAA0/3JwRgfh-k1gtVYve806zsTSbOMKaYATtwCLcBGAsYHQ/s192/rahman%2Byoutuber%2B%25284%2529.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-q4qkJEjopgo/YPUY9vN59gI/AAAAAAAAAA8/U-FwXEG5ONQaQoTqQ394wq8QTaJOlCGtACLcBGAsYHQ/s512/rahman%2Byoutuber%2B%25285%2529.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
