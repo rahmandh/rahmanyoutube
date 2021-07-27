@@ -1,0 +1,39 @@
+{
+  "name": "Rahman Youtuber",
+  "short_name": "RahmanYT",
+  "scope": "https://rahmanyoutuber.blogspot.com/",
+  "start_url": "https://rahmanyoutuber.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "This blog is a collection of several videos such as video tutorials, reaction videos and also displays the best videos from Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-nAXryc6nWPM/YP_7MY9J1TI/AAAAAAAAACk/0U8-bOCCp-IT6nbFbBj3wYeqbBL-504VwCLcBGAsYHQ/s48/Untitled%2Bdesign.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nAXryc6nWPM/YP_7MY9J1TI/AAAAAAAAACk/0U8-bOCCp-IT6nbFbBj3wYeqbBL-504VwCLcBGAsYHQ/s72/Untitled%2Bdesign.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nAXryc6nWPM/YP_7MY9J1TI/AAAAAAAAACk/0U8-bOCCp-IT6nbFbBj3wYeqbBL-504VwCLcBGAsYHQ/s96/Untitled%2Bdesign.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nAXryc6nWPM/YP_7MY9J1TI/AAAAAAAAACk/0U8-bOCCp-IT6nbFbBj3wYeqbBL-504VwCLcBGAsYHQ/s144/Untitled%2Bdesign.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nAXryc6nWPM/YP_7MY9J1TI/AAAAAAAAACk/0U8-bOCCp-IT6nbFbBj3wYeqbBL-504VwCLcBGAsYHQ/s168/Untitled%2Bdesign.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nAXryc6nWPM/YP_7MY9J1TI/AAAAAAAAACk/0U8-bOCCp-IT6nbFbBj3wYeqbBL-504VwCLcBGAsYHQ/s192/Untitled%2Bdesign.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nAXryc6nWPM/YP_7MY9J1TI/AAAAAAAAACk/0U8-bOCCp-IT6nbFbBj3wYeqbBL-504VwCLcBGAsYHQ/s512/Untitled%2Bdesign.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
